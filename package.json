@@ -1,0 +1,26 @@
+{
+  "name": "sourceRewrite",
+  "version": "1.0.0",
+  "description": "A command-line tool that lets you rewrite your source with configurable options.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "bin": {
+    "sr": "./bin/sr.js"
+  },
+  "keywords": [
+    "esprima",
+    "source",
+    "code",
+    "refactor",
+    "rewrite"
+  ],
+  "author": "alejandro.oviedo.g@gmail.com",
+  "license": "BSD",
+  "dependencies": {
+    "commander": "^2.6.0",
+    "escodegen": "^1.6.0",
+    "esprima": "^1.2.3"
+  }
+}

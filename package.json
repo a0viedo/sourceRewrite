@@ -1,6 +1,6 @@
 {
   "name": "sourceRewrite",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A command-line tool that lets you rewrite your source with configurable options.",
   "main": "index.js",
   "scripts": {

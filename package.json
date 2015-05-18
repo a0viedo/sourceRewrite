@@ -19,6 +19,7 @@
   "author": "alejandro.oviedo.g@gmail.com",
   "license": "BSD",
   "dependencies": {
+    "babel": "^5.4.3",
     "commander": "^2.6.0",
     "escodegen": "^1.6.0",
     "esprima": "^1.2.3"

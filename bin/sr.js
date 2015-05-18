@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 
+require('babel/register');
 var program = require('commander');
 var path = require('path');
 var parse = require('../lib/parse');
